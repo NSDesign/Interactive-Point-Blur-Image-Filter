@@ -1,1 +1,0 @@
-# Interactive-Point-Blur-Image-Filter
